@@ -1,1 +1,22 @@
 # Denuncias
+
+## 1) MPF - DENUNCIA INICIAL #1 [2023.01.09]
+
+<div>
+  <img src="https://raw.githubusercontent.com/tventuraz/Denuncias/refs/heads/main/MPF-2023.01.09-%5B01%20de%2002%5D.jpg" width=640>
+  <img src="https://raw.githubusercontent.com/tventuraz/Denuncias/refs/heads/main/MPF-2023.01.09-%5B02%20de%2002%5D.jpg" width=640>
+</div>
+
+## 2) MPF - DENUNCIA INICIAL #2 [2023.01.13]
+
+<div>
+  <img src="https://raw.githubusercontent.com/tventuraz/Denuncias/refs/heads/main/MPF-2023.01.13-%5B01%20de%2002%5D.jpg" width=640>
+  <img src="https://raw.githubusercontent.com/tventuraz/Denuncias/refs/heads/main/MPF-2023.01.13-%5B02%20de%2002%5D.jpg" width=640>
+</div>
+
+## 3) CINDACTA - TERRORISMO [2023.09.13]
+<div>
+  <img src="https://raw.githubusercontent.com/tventuraz/Denuncias/refs/heads/main/CINDACTA-2023.09.13-%5B01%20de%2002%5D.jpg" width=640>
+  <img src="https://raw.githubusercontent.com/tventuraz/Denuncias/refs/heads/main/CINDACTA-2023.09.13-%5B02%20de%2002%5D.jpg" width=640>
+</div>
+
